@@ -31,3 +31,11 @@ body {
   top: -10vh;
   display: none;
 }
+
+.zaehler {
+  position: absolute;
+  left: 1vw;
+  bottom: 1vh;
+  font-family: sans-serif;
+  font-size: 200%;
+}
