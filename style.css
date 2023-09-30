@@ -4,4 +4,30 @@ h1 {
 
 body {
   background: url('hexenhaus.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: whitesmoke;
+}
+
+.besen {
+  position: absolute;
+  font-size: 10vh;
+  top: 60vh;
+  left: 30vw;
+  transform: rotate(-30deg);
+}
+
+.katze {
+  position: absolute;
+  font-size: 10vh;
+  top: 60vh;
+  left: 70vw;
+}
+
+.herz {
+  position: absolute;
+  top: -10vh;
+  display: none;
 }
