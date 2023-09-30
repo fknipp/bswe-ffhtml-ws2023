@@ -16,7 +16,7 @@ body {
   font-size: 10vh;
   top: 60vh;
   left: 30vw;
-  transform: rotate(-30deg);
+  --transform: rotate(-30deg);
 }
 
 .katze {
